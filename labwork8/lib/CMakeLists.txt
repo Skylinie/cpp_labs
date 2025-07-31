@@ -1,0 +1,1 @@
+add_library(adapters processing.h)
